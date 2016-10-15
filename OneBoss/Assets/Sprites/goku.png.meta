@@ -1,0 +1,1510 @@
+fileFormatVersion: 2
+guid: c85ea94f1c86c1a46bca11f403907f4f
+timeCreated: 1458274446
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goku_0
+    21300002: goku_1
+    21300004: goku_2
+    21300006: goku_3
+    21300008: goku_4
+    21300010: goku_5
+    21300012: goku_6
+    21300014: goku_7
+    21300016: goku_8
+    21300018: goku_9
+    21300020: goku_10
+    21300022: goku_11
+    21300024: goku_12
+    21300026: goku_13
+    21300028: goku_14
+    21300030: goku_15
+    21300032: goku_16
+    21300034: goku_17
+    21300036: goku_18
+    21300038: goku_19
+    21300040: goku_20
+    21300042: goku_21
+    21300044: goku_22
+    21300046: goku_23
+    21300048: goku_24
+    21300050: goku_25
+    21300052: goku_26
+    21300054: goku_27
+    21300056: goku_28
+    21300058: goku_29
+    21300060: goku_30
+    21300062: goku_31
+    21300064: goku_32
+    21300066: goku_33
+    21300068: goku_34
+    21300070: goku_35
+    21300072: goku_36
+    21300074: goku_37
+    21300076: goku_38
+    21300078: goku_39
+    21300080: goku_40
+    21300082: goku_41
+    21300084: goku_42
+    21300086: goku_43
+    21300088: goku_44
+    21300090: goku_45
+    21300092: goku_46
+    21300094: goku_47
+    21300096: goku_48
+    21300098: goku_49
+    21300100: goku_50
+    21300102: goku_51
+    21300104: goku_52
+    21300106: goku_53
+    21300108: goku_54
+    21300110: goku_55
+    21300112: goku_56
+    21300114: goku_57
+    21300116: goku_58
+    21300118: goku_59
+    21300120: goku_60
+    21300122: goku_61
+    21300124: goku_62
+    21300126: goku_63
+    21300128: goku_64
+    21300130: goku_65
+    21300132: goku_66
+    21300134: goku_67
+    21300136: goku_68
+    21300138: goku_69
+    21300140: goku_70
+    21300142: goku_71
+    21300144: goku_72
+    21300146: goku_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: goku_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 530
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: goku_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 533
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 42.5}
+        - {x: -11, y: 42.5}
+        - {x: -24, y: 26.5}
+        - {x: -24, y: -42.5}
+        - {x: 24, y: -42.5}
+        - {x: 24, y: 22.5}
+        - {x: 7, y: 40.5}
+    - name: goku_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 533
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 17}
+        - {x: 9, y: 43}
+        - {x: -11, y: 43}
+        - {x: -24, y: 12}
+        - {x: -24, y: -43}
+        - {x: -18, y: -43}
+        - {x: -13, y: -38}
+        - {x: 3, y: -43}
+        - {x: 24, y: -43}
+    - name: goku_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 531
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 44}
+        - {x: -25.5, y: 29}
+        - {x: -25.5, y: -34}
+        - {x: -22.5, y: -44}
+        - {x: -4.5, y: -44}
+        - {x: 25.5, y: -5}
+        - {x: 25.5, y: 38}
+        - {x: 15.5, y: 44}
+    - name: goku_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 532
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24.5}
+        - {x: 14, y: 29.5}
+        - {x: 8, y: 43.5}
+        - {x: 3, y: 44.5}
+        - {x: -10, y: 44.5}
+        - {x: -40, y: 28.5}
+        - {x: -40, y: -18.5}
+        - {x: -37, y: -44.5}
+        - {x: -8, y: -44.5}
+        - {x: 40, y: -2.5}
+        - {x: 40, y: 28.5}
+        - {x: 30, y: 28.5}
+    - name: goku_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 532
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 17}
+        - {x: 5.5, y: 44}
+        - {x: -15.5, y: 44}
+        - {x: -21.5, y: 34}
+        - {x: -21.5, y: -28}
+        - {x: -18.5, y: -44}
+        - {x: -7.5, y: -44}
+        - {x: -4.5, y: -42}
+        - {x: 1.5, y: -25}
+        - {x: 15.5, y: -22}
+        - {x: 21.5, y: -11}
+    - name: goku_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 532
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 44}
+        - {x: -26.5, y: 44}
+        - {x: -32.5, y: 27}
+        - {x: -32.5, y: 1}
+        - {x: -26.5, y: -44}
+        - {x: -2.5, y: -44}
+        - {x: 32.5, y: -10}
+        - {x: 32.5, y: 9}
+        - {x: -2.5, y: 39}
+    - name: goku_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 531
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 42.5}
+        - {x: -24, y: 7.5}
+        - {x: -24, y: -42.5}
+        - {x: 24, y: -42.5}
+        - {x: 24, y: 28.5}
+        - {x: 10, y: 42.5}
+    - name: goku_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 532
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 40.5}
+        - {x: 3, y: 42.5}
+        - {x: -13, y: 42.5}
+        - {x: -30, y: 18.5}
+        - {x: -32, y: -2.5}
+        - {x: -32, y: -42.5}
+        - {x: 26, y: -42.5}
+        - {x: 32, y: -1.5}
+        - {x: 32, y: 22.5}
+        - {x: 31, y: 23.5}
+    - name: goku_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 533
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 39}
+        - {x: -9.5, y: 28}
+        - {x: -15.5, y: 19}
+        - {x: -29.5, y: -20}
+        - {x: -29.5, y: -39}
+        - {x: 21.5, y: -39}
+        - {x: 21.5, y: -36}
+        - {x: 29.5, y: -22}
+        - {x: 29.5, y: 39}
+    - name: goku_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 534
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 38.5}
+        - {x: -43.5, y: 2.5}
+        - {x: -43.5, y: -38.5}
+        - {x: 20.5, y: -38.5}
+        - {x: 43.5, y: 9.5}
+        - {x: 43.5, y: 22.5}
+        - {x: 28.5, y: 38.5}
+    - name: goku_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 432
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 43.5}
+        - {x: -26, y: 33.5}
+        - {x: -26, y: -7.5}
+        - {x: -19, y: -43.5}
+        - {x: 0, y: -43.5}
+        - {x: 26, y: -8.5}
+        - {x: 26, y: 32.5}
+        - {x: 4, y: 43.5}
+    - name: goku_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 431
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 29}
+        - {x: -34, y: 26}
+        - {x: -29, y: 20}
+        - {x: -27, y: 16}
+        - {x: -25, y: 16}
+        - {x: -25, y: 14}
+        - {x: -28, y: 18}
+        - {x: -31, y: 21}
+        - {x: -34, y: 22}
+        - {x: -35, y: 20}
+        - {x: -35, y: -8}
+        - {x: -22, y: -47}
+        - {x: -6, y: -47}
+        - {x: 35, y: 20}
+        - {x: 35, y: 47}
+        - {x: 2, y: 47}
+        - {x: -29, y: 39}
+    - name: goku_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 441
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 39.5}
+        - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -34.5}
+        - {x: -18.5, y: -39.5}
+        - {x: 5.5, y: -39.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 38.5}
+        - {x: 18.5, y: 39.5}
+    - name: goku_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 440
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 42.5}
+        - {x: -0.5, y: 42.5}
+        - {x: -20.5, y: 25.5}
+        - {x: -20.5, y: -42.5}
+        - {x: -8.5, y: -42.5}
+        - {x: 13.5, y: -30.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 20.5, y: 25.5}
+        - {x: 19.5, y: 32.5}
+    - name: goku_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 449
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -11}
+        - {x: 2.5, y: -36}
+        - {x: 28.5, y: -36}
+        - {x: 28.5, y: -6}
+        - {x: 15.5, y: 36}
+        - {x: -23.5, y: 36}
+        - {x: -28.5, y: 28}
+    - name: goku_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 443
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 39.5}
+        - {x: -20, y: 20.5}
+        - {x: -20, y: -39.5}
+        - {x: 17, y: -39.5}
+        - {x: 20, y: -31.5}
+        - {x: 20, y: 37.5}
+        - {x: 18, y: 39.5}
+    - name: goku_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 450
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 34.5}
+        - {x: -38, y: -14.5}
+        - {x: -38, y: -34.5}
+        - {x: -27, y: -34.5}
+        - {x: 18, y: -19.5}
+        - {x: 38, y: -11.5}
+        - {x: 38, y: 34.5}
+    - name: goku_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 435
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 42}
+        - {x: -6.5, y: 42}
+        - {x: -25.5, y: 19}
+        - {x: -25.5, y: 2}
+        - {x: -17.5, y: 3}
+        - {x: -15.5, y: 5}
+        - {x: -24.5, y: -42}
+        - {x: 25.5, y: -42}
+        - {x: 25.5, y: 7}
+        - {x: 22.5, y: 41}
+    - name: goku_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 434
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 45.5}
+        - {x: -27.5, y: 45.5}
+        - {x: -27.5, y: -45.5}
+        - {x: 27.5, y: -45.5}
+        - {x: 27.5, y: -33.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 27.5, y: 9.5}
+        - {x: 27.5, y: 27.5}
+    - name: goku_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 440
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -16.5}
+        - {x: -7.5, y: -25.5}
+        - {x: -1.5, y: -19.5}
+        - {x: -2.5, y: -14.5}
+        - {x: 11.5, y: -32.5}
+        - {x: 16.5, y: -37.5}
+        - {x: 37.5, y: -37.5}
+        - {x: 37.5, y: 9.5}
+        - {x: 25.5, y: 37.5}
+        - {x: -25.5, y: 37.5}
+        - {x: -37.5, y: 25.5}
+        - {x: -37.5, y: -5.5}
+    - name: goku_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 439
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 39.5}
+        - {x: -14.5, y: 18.5}
+        - {x: -25.5, y: -12.5}
+        - {x: -25.5, y: -39.5}
+        - {x: 25.5, y: -39.5}
+        - {x: 25.5, y: 36.5}
+        - {x: 19.5, y: 39.5}
+    - name: goku_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 440
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 40}
+        - {x: -15.5, y: 34}
+        - {x: -26.5, y: -15}
+        - {x: -26.5, y: -40}
+        - {x: 26.5, y: -40}
+        - {x: 26.5, y: 23}
+        - {x: 9.5, y: 40}
+    - name: goku_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 341
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 43.5}
+        - {x: -24.5, y: 42.5}
+        - {x: -24.5, y: -31.5}
+        - {x: -10.5, y: -43.5}
+        - {x: -1.5, y: -43.5}
+        - {x: 24.5, y: -13.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 8.5, y: 43.5}
+    - name: goku_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 350
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 35.5}
+        - {x: -35.5, y: 34.5}
+        - {x: -35.5, y: -17.5}
+        - {x: -6.5, y: -35.5}
+        - {x: 20.5, y: -35.5}
+        - {x: 30.5, y: -25.5}
+        - {x: 35.5, y: -3.5}
+        - {x: 35.5, y: 35.5}
+    - name: goku_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 366
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 33.5}
+        - {x: -8.5, y: 33.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -18.5, y: 2.5}
+        - {x: -13.5, y: -7.5}
+        - {x: -20.5, y: 3.5}
+        - {x: -28.5, y: 6.5}
+        - {x: -37.5, y: -0.5}
+        - {x: -37.5, y: -20.5}
+        - {x: -25.5, y: -33.5}
+        - {x: 10.5, y: -33.5}
+        - {x: 37.5, y: -12.5}
+        - {x: 37.5, y: 13.5}
+    - name: goku_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 380
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 25.5}
+        - {x: 6.5, y: 23.5}
+        - {x: -42.5, y: -2.5}
+        - {x: -42.5, y: -25.5}
+        - {x: 42.5, y: -25.5}
+        - {x: 42.5, y: 25.5}
+    - name: goku_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 389
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 17}
+        - {x: -45, y: 11}
+        - {x: -45, y: -17}
+        - {x: 45, y: -17}
+        - {x: 45, y: -2}
+        - {x: 35, y: 17}
+    - name: goku_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 371
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28}
+        - {x: -34, y: 11}
+        - {x: -34, y: -28}
+        - {x: 34, y: -28}
+        - {x: 34, y: -4}
+        - {x: 10, y: 28}
+    - name: goku_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 357
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 32}
+        - {x: -10.5, y: 32}
+        - {x: -23.5, y: 23}
+        - {x: -23.5, y: -32}
+        - {x: 23.5, y: -32}
+        - {x: 23.5, y: -9}
+        - {x: 18.5, y: 31}
+    - name: goku_30
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 353
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 16.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -23.5, y: -39.5}
+        - {x: 23.5, y: -39.5}
+        - {x: 23.5, y: 28.5}
+        - {x: 21.5, y: 37.5}
+        - {x: 16.5, y: 39.5}
+        - {x: 1.5, y: 39.5}
+        - {x: -0.5, y: 38.5}
+    - name: goku_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 349
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 41}
+        - {x: -25.5, y: 41}
+        - {x: -27.5, y: 39}
+        - {x: -27.5, y: -41}
+        - {x: 27.5, y: -41}
+        - {x: 27.5, y: -11}
+        - {x: 23.5, y: 6}
+    - name: goku_32
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 348
+        width: 74
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -42.5}
+        - {x: 37, y: -42.5}
+        - {x: 37, y: -13.5}
+        - {x: 21, y: 42.5}
+        - {x: -37, y: 42.5}
+        - {x: -37, y: -9.5}
+    - name: goku_33
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 345
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 43.5}
+        - {x: -18.5, y: -43.5}
+        - {x: -3.5, y: -43.5}
+        - {x: 18.5, y: -25.5}
+        - {x: 18.5, y: 30.5}
+        - {x: 12.5, y: 43.5}
+    - name: goku_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 260
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 34}
+        - {x: -23.5, y: 9}
+        - {x: -23.5, y: -34}
+        - {x: 23.5, y: -34}
+        - {x: 23.5, y: 19}
+        - {x: 3.5, y: 34}
+    - name: goku_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 261
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 35}
+        - {x: -12, y: 35}
+        - {x: -26, y: 26}
+        - {x: -26, y: -35}
+        - {x: 26, y: -35}
+        - {x: 26, y: 12}
+        - {x: 18, y: 30}
+    - name: goku_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 259
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 34}
+        - {x: -34.5, y: 13}
+        - {x: -34.5, y: -34}
+        - {x: 26.5, y: -34}
+        - {x: 34.5, y: -26}
+        - {x: 34.5, y: 13}
+        - {x: 9.5, y: 34}
+    - name: goku_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 258
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 29}
+        - {x: -26, y: 15}
+        - {x: -26, y: -29}
+        - {x: 26, y: -29}
+        - {x: 26, y: 13}
+        - {x: 1, y: 29}
+    - name: goku_38
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 261
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 29}
+        - {x: -38, y: 15}
+        - {x: -38, y: -29}
+        - {x: 38, y: -29}
+        - {x: 38, y: -17}
+        - {x: 20, y: 13}
+        - {x: -10, y: 29}
+    - name: goku_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 262
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 27}
+        - {x: 14, y: 31}
+        - {x: 0, y: 31}
+        - {x: -21, y: 13}
+        - {x: -21, y: -9}
+        - {x: -17, y: -31}
+        - {x: 14, y: -31}
+        - {x: 21, y: -10}
+        - {x: 21, y: 21}
+    - name: goku_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 260
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 28}
+        - {x: -29, y: -28}
+        - {x: 29, y: -28}
+        - {x: 29, y: 28}
+    - name: goku_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 262
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 33.5}
+        - {x: -16, y: 33.5}
+        - {x: -24, y: 16.5}
+        - {x: -24, y: -6.5}
+        - {x: -23, y: -7.5}
+        - {x: -16, y: -5.5}
+        - {x: -8, y: -25.5}
+        - {x: -2, y: -32.5}
+        - {x: 1, y: -33.5}
+        - {x: 24, y: -33.5}
+        - {x: 24, y: 21.5}
+        - {x: 13, y: 30.5}
+    - name: goku_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 261
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 35.5}
+        - {x: -35, y: 16.5}
+        - {x: -35, y: -8.5}
+        - {x: -29, y: -20.5}
+        - {x: -10, y: -26.5}
+        - {x: 13, y: -35.5}
+        - {x: 35, y: -35.5}
+        - {x: 35, y: -6.5}
+        - {x: 26, y: 23.5}
+        - {x: 0, y: 35.5}
+    - name: goku_43
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 259
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 36}
+        - {x: -35.5, y: -10}
+        - {x: -42.5, y: -24}
+        - {x: -42.5, y: -36}
+        - {x: 35.5, y: -36}
+        - {x: 42.5, y: -14}
+        - {x: 42.5, y: 29}
+        - {x: 23.5, y: 36}
+    - name: goku_44
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 250
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 40.5}
+        - {x: -25.5, y: -23.5}
+        - {x: -25.5, y: -40.5}
+        - {x: 25.5, y: -40.5}
+        - {x: 25.5, y: 38.5}
+        - {x: 23.5, y: 40.5}
+    - name: goku_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -42}
+        - {x: 23.5, y: -42}
+        - {x: 23.5, y: -18}
+        - {x: 12.5, y: 41}
+        - {x: 9.5, y: 42}
+        - {x: -8.5, y: 42}
+        - {x: -23.5, y: 24}
+    - name: goku_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 160
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 41.5}
+        - {x: -10.5, y: 41.5}
+        - {x: -18.5, y: 19.5}
+        - {x: -23.5, y: -8.5}
+        - {x: -23.5, y: -41.5}
+        - {x: 21.5, y: -41.5}
+        - {x: 23.5, y: -39.5}
+        - {x: 23.5, y: -3.5}
+        - {x: 12.5, y: 40.5}
+    - name: goku_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 157
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 45}
+        - {x: -21, y: 19}
+        - {x: -21, y: -2}
+        - {x: -18, y: -4}
+        - {x: -16, y: -4}
+        - {x: -12, y: -1}
+        - {x: -9, y: 4}
+        - {x: -8, y: 7}
+        - {x: -10, y: 2}
+        - {x: -21, y: -27}
+        - {x: -21, y: -45}
+        - {x: 21, y: -45}
+        - {x: 21, y: 26}
+        - {x: 8, y: 45}
+    - name: goku_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 154
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 48}
+        - {x: -31, y: 43}
+        - {x: -31, y: -35}
+        - {x: -26, y: -48}
+        - {x: 31, y: -48}
+        - {x: 31, y: 48}
+    - name: goku_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 158
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 40}
+        - {x: -20.5, y: 30}
+        - {x: -20.5, y: -40}
+        - {x: 20.5, y: -40}
+        - {x: 20.5, y: 35}
+        - {x: 13.5, y: 40}
+    - name: goku_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 158
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 39}
+        - {x: -17.5, y: 17}
+        - {x: -20.5, y: 0}
+        - {x: -20.5, y: -39}
+        - {x: 20.5, y: -39}
+        - {x: 20.5, y: 35}
+        - {x: 11.5, y: 39}
+    - name: goku_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 159
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -42}
+        - {x: 27.5, y: 30}
+        - {x: 25.5, y: 42}
+        - {x: -11.5, y: 42}
+        - {x: -24.5, y: 22}
+        - {x: -27.5, y: -6}
+        - {x: -27.5, y: -42}
+        - {x: -19.5, y: -42}
+        - {x: -7.5, y: -27}
+        - {x: 12.5, y: -40}
+        - {x: 15.5, y: -42}
+    - name: goku_52
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 159
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 41.5}
+        - {x: -32.5, y: 20.5}
+        - {x: -32.5, y: -41.5}
+        - {x: 32.5, y: -41.5}
+        - {x: 32.5, y: 25.5}
+        - {x: 13.5, y: 41.5}
+    - name: goku_53
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 155
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 38.5}
+        - {x: -22, y: 30.5}
+        - {x: -25, y: 21.5}
+        - {x: -25, y: -38.5}
+        - {x: 25, y: -38.5}
+        - {x: 25, y: 31.5}
+        - {x: 16, y: 38.5}
+    - name: goku_54
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 157
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 38.5}
+        - {x: -22, y: 33.5}
+        - {x: -25, y: 29.5}
+        - {x: -25, y: -38.5}
+        - {x: 25, y: -38.5}
+        - {x: 25, y: 32.5}
+        - {x: 22, y: 38.5}
+    - name: goku_55
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 157
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 38.5}
+        - {x: -25, y: -38.5}
+        - {x: 25, y: -38.5}
+        - {x: 25, y: 32.5}
+        - {x: 16, y: 38.5}
+    - name: goku_56
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 158
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 38.5}
+        - {x: -25, y: -5.5}
+        - {x: -27, y: -20.5}
+        - {x: -27, y: -38.5}
+        - {x: 27, y: -38.5}
+        - {x: 27, y: 36.5}
+        - {x: 25, y: 38.5}
+    - name: goku_57
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 158
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -34.5}
+        - {x: 21, y: -34.5}
+        - {x: 21, y: 22.5}
+        - {x: 16, y: 30.5}
+        - {x: 3, y: 34.5}
+        - {x: -12, y: 34.5}
+        - {x: -21, y: 12.5}
+    - name: goku_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: goku_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 131
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: goku_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 184
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 32}
+        - {x: -92, y: -28}
+        - {x: -90, y: -32}
+        - {x: 92, y: -32}
+        - {x: 92, y: 18}
+        - {x: 81, y: 32}
+    - name: goku_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 69
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 38.5}
+        - {x: -25.5, y: 24.5}
+        - {x: -25.5, y: -38.5}
+        - {x: 25.5, y: -38.5}
+        - {x: 25.5, y: 34.5}
+        - {x: 13.5, y: 38.5}
+    - name: goku_62
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 38.5}
+        - {x: -25, y: 24.5}
+        - {x: -25, y: -38.5}
+        - {x: 25, y: -38.5}
+        - {x: 25, y: 31.5}
+        - {x: 10, y: 38.5}
+    - name: goku_63
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 69
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 38.5}
+        - {x: -30, y: -38.5}
+        - {x: 30, y: -38.5}
+        - {x: 30, y: 32.5}
+        - {x: 21, y: 38.5}
+    - name: goku_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 59
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 43}
+        - {x: -7.5, y: 43}
+        - {x: -20.5, y: 20}
+        - {x: -20.5, y: -43}
+        - {x: 14.5, y: -43}
+        - {x: 20.5, y: -29}
+        - {x: 20.5, y: 17}
+        - {x: 14.5, y: 40}
+    - name: goku_65
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 61
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 41.5}
+        - {x: -19, y: 21.5}
+        - {x: -27, y: -14.5}
+        - {x: -27, y: -41.5}
+        - {x: -7, y: -41.5}
+        - {x: 21, y: -33.5}
+        - {x: 27, y: -26.5}
+        - {x: 27, y: 41.5}
+    - name: goku_66
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 61
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -2.5}
+        - {x: -11, y: -41.5}
+        - {x: 24, y: -41.5}
+        - {x: 24, y: -15.5}
+        - {x: 12, y: 40.5}
+        - {x: 5, y: 41.5}
+        - {x: -14, y: 41.5}
+        - {x: -24, y: 28.5}
+    - name: goku_67
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 49
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 45.5}
+        - {x: -20, y: 29.5}
+        - {x: -20, y: -7.5}
+        - {x: -12, y: -45.5}
+        - {x: 10, y: -45.5}
+        - {x: 20, y: -13.5}
+        - {x: 20, y: 44.5}
+        - {x: 18, y: 45.5}
+    - name: goku_68
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 57
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 11}
+        - {x: 12, y: 42}
+        - {x: 8, y: 43}
+        - {x: -12, y: 43}
+        - {x: -23, y: 20}
+        - {x: -23, y: -43}
+        - {x: 23, y: -43}
+        - {x: 23, y: 9}
+        - {x: 21, y: 11}
+    - name: goku_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 54
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 13.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 11.5, y: 44.5}
+        - {x: 8.5, y: 45.5}
+        - {x: -14.5, y: 45.5}
+        - {x: -22.5, y: 24.5}
+        - {x: -22.5, y: -45.5}
+        - {x: 7.5, y: -45.5}
+        - {x: 9.5, y: -44.5}
+        - {x: 22.5, y: -5.5}
+    - name: goku_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 93
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: goku_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -24, y: 6}
+        - {x: -24, y: -14}
+        - {x: -15, y: -16}
+        - {x: 24, y: -16}
+        - {x: 24, y: 13}
+        - {x: 23, y: 16}
+    - name: goku_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 13
+        width: 184
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 14}
+        - {x: 91, y: 19}
+        - {x: 77, y: 32}
+        - {x: 76, y: 32}
+        - {x: 64, y: 27}
+        - {x: 36, y: 32}
+        - {x: -85, y: 32}
+        - {x: -92, y: 30}
+        - {x: -92, y: -32}
+        - {x: 73, y: -32}
+        - {x: 92, y: -28}
+        - {x: 92, y: 14}
+        - {x: 73, y: 14}
+    - name: goku_73
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2
+        width: 184
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 32}
+        - {x: -92, y: 23}
+        - {x: -92, y: -30}
+        - {x: -84, y: -32}
+        - {x: 21, y: -32}
+        - {x: 92, y: -15}
+        - {x: 92, y: 14}
+        - {x: -26, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
